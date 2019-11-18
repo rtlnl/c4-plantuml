@@ -1,5 +1,5 @@
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Container.puml
-!include sprites.puml
+!includeurl https://raw.githubusercontent.com/rtlnl/c4-plantuml/master/sprites.puml
 
 !define CONTAINER_P1_BG_COLOR #d54343
 !define CONTAINER_P1_BORDER_COLOR #750303
